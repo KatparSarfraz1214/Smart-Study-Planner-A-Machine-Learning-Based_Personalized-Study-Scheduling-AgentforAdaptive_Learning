@@ -1,4 +1,4 @@
-# Smart Study Planner: Machine-Learning-Based Personalized Study-Scheduling Agent for Adaptive Learning
+# Smart Study Planner: Machine Learning-Based Personalized Study Scheduling Agent for Adaptive Learning
 
 ## Overview
 
