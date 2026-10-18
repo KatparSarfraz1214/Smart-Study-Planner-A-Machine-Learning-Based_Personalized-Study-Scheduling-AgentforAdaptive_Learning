@@ -36,6 +36,7 @@ Smart Study Planner leverages Machine Learning to:
 ---
 
 ## System Architecture
+![syst](https://raw.githubusercontent.com/KatparSarfraz1214/Smart-Study-Planner-A-Machine-Learning-Based_Personalized-Study-Scheduling-AgentforAdaptive_Learning/c620b633f88973d5c40b4037811b74a75970cb92/system_architecture.jfif)
 
 ### Input Layer
 
